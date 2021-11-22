@@ -1,6 +1,6 @@
 runtime: python39
 
-service: prod
+service: default
 
 handlers:
 - url: /static
