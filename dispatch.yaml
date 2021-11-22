@@ -1,8 +1,8 @@
 dispatch:
 - url: "okage-sampleapp-prod.online/*"
-  service: default
+  service: prod
 - url: "www.okage-sampleapp-prod.online/*"
-  service: default
+  service: prod
 - url: "okage-sampleapp-dev.online/*"
   service: dev
 - url: "www.okage-sampleapp-dev.online/*"

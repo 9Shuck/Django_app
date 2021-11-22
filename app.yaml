@@ -1,5 +1,7 @@
 runtime: python39
 
+service: prod
+
 handlers:
 - url: /static
   static_dir: static/
